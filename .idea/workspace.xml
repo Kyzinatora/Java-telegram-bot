@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75eb71cb-13b5-4d6c-b97e-518468295f61" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2e7vmth3sN5PkaPyIJyhdQSF7zw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ChatGPTService.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TinderBoltApp.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.com.javarush.telegram.lesson01.TinderBoltApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.javarush.telegram.lesson04.TinderBoltApp.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.TinderBolt [package].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Наталья/Desktop/курсы/JavaRush/шаблон&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\Marathon\TinderBolt\src\main\java\com\javarush\telegram\lesson04" />
+      <recent name="C:\Projects\Marathon\TinderBolt\src\main\resources\prompts" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.javarush.telegram.lesson01" />
+      <recent name="com.javarush.telegram.lesson02" />
+      <recent name="com.javarush.telegram.lesson03" />
+      <recent name="com.javarush.telegram.old" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TinderBoltApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.telegram.TinderBoltApp" />
+      <module name="шаблон" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.telegram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TinderBoltApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75eb71cb-13b5-4d6c-b97e-518468295f61" name="Changes" comment="" />
+      <created>1711268593238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711268593238</updated>
+      <workItem from="1711268594294" duration="23220000" />
+      <workItem from="1711377118901" duration="11118000" />
+      <workItem from="1711440341957" duration="13999000" />
+      <workItem from="1711522405296" duration="10925000" />
+      <workItem from="1711951709847" duration="8112000" />
+      <workItem from="1712061143905" duration="11987000" />
+      <workItem from="1712139623322" duration="7000" />
+      <workItem from="1712142695014" duration="1123000" />
+      <workItem from="1712145688042" duration="2340000" />
+      <workItem from="1712203519568" duration="8000" />
+      <workItem from="1715196405307" duration="104000" />
+      <workItem from="1715196568242" duration="1004000" />
+      <workItem from="1716664933124" duration="691000" />
+      <workItem from="1716665656246" duration="119000" />
+      <workItem from="1716665996162" duration="2161000" />
+      <workItem from="1720094321362" duration="1209000" />
+      <workItem from="1720095745768" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
